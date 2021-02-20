@@ -1,0 +1,30 @@
+VARIÁVEL              ---> Descritivo da Variável
+------------------------------------------------------------------------------------------------------------------------
+COD	              ---> Código Identificador único sequencial
+CODMUN7	              ---> Código do Município
+Estado	              ---> Nome do Estado
+ano	              ---> Ano de coleta dos dados
+Nome	              ---> Nome da cidade
+CV_SCR1 ((1 ano)     ---> Primeira dose da Sarampo
+CV_SCR2 (15 meses)    ---> Segunda dose da sarampo
+Poprural	      ---> População rural
+PopUrb	              ---> População urbana
+RDPC	              ---> Renda Domiciliar per capita 
+PEA	              ---> PEA - 10 anos ou mais
+IDHM	              ---> IDHM
+IDHM_E	              ---> IDHM Educação
+IDHM_L	              ---> IDHM Longevidade
+IDHM_R	              ---> IDHM Renda
+T_ANALF18M	      ---> Taxa de analfabetismo - 18 anos ou mais 
+T_MED18M	      ---> % população com 18 anos ou mais com médio completo
+T_SUPER25M	      ---> % população com 25 anos ou mais com superior completo
+T_AGUA	              ---> % da população em domicílios com água encanada
+T_BANAGUA	      ---> % da população em domicílios com banheiro e água encanada
+T_DENS	              ---> % da população em domicílios com com densidade > 2 pessoas/dormitório
+T_LIXO	              ---> % da população em domicílios com coleta de lixo
+T_LUZ	              ---> % da população em domicílios com energia elétrica
+AGUA_ESGOTO	      ---> % de pessoas em domicílios com abastecimento de água e esgotamento sanitário inadequados
+POPDOMCHEFMULHERES    ---> % de população feminina de 10 anos ou mais de idade, responsáveis pelos domicílios particulares
+DENSDEMOG2010	      ---> Densidade demográfica (pessoas/área)
+PERC_NV_7CPN	      ---> % Nascidos Vivos de mães que realizaram 7 ou mais consultas em PN no ano de 2016
+CoberturaAB	      ---> % Cobertura de Atenção Básica em Saúde 
