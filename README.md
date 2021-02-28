@@ -2,7 +2,7 @@
 
 No evento desse ano exploraremos os dados de vacinas de sarampo, rubéola e cachumba disponibilizads pelo observarório de vacinas. (https://www.observatoriodasvacinas.com.br/)
 
-- Data set original = bancoOPENCOMPLETO.xlsx
+1. Data set original = [../blob/main/bancoOPENCOMPLETO.xlsx]
 - Dicionário de dados = Dicionario_Dados.txt
 - Notebook usado na Oficina de Jupyter = Modelo_df_vacinas.ipynb
 ----> Video da Oficina de Jupyter https://youtu.be/ps6u-Yw54_o
