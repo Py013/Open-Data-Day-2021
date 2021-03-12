@@ -13,4 +13,8 @@ Videos
 
 - Bate papo com as especialistas do observatorio das vacinas = https://youtu.be/Q62DnYTcR1A
 
+RESULTADOS DA APRESENTAÇÂO DO DIA 06/03
+- https://www.youtube.com/watch?v=slNPg58SHzQ
+- https://github.com/Py013/Open-Data-Day-2021/tree/main/Resultados_Finais
+
 
